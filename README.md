@@ -5,7 +5,16 @@ An NLP-based Machine Learning project that classifies news articles as **Fake** 
 ---
 
 ## 🚀 Live Demo
-(Deploy link will be added after Streamlit Cloud deployment)
+
+The application is deployed on Streamlit Cloud.
+  
+🔗 [Click here to try the Live App](https://news-article-classification-ml.streamlit.app/)
+
+You can test the model by entering any news article text and instantly receive:
+- Prediction (Fake / Real)
+- Confidence Score
+- Top Influential Words
+- Model Explanation
 
 ---
 
